@@ -6,5 +6,6 @@ Answer: AI code and AI assisted code will not be accepted anywhere. AI will not 
 
 Any types of AI and AI tools not mentioned here will by default be not allowed.
 
-Question 3: how is the ai policy enforced?
-Answer: it is enforced by the project leadership and by contributors that want to and people that want to become reviewers 
+Question 3: How is the AI policy enforced?
+
+Answer: It is enforced by the project leadership, by contributors that want to, and people that want to become reviewers.
