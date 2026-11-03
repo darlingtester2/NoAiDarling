@@ -1,5 +1,7 @@
 Question 1: Are there any parts of the project where any AI use at all is unacceptable?
-Answer: in the source code and code and art
+
+Answer: AI use is unacceptable in the source code and in art.
+
 
 
 Question 2: Are there any parts of the project where all AI use is acceptable?
