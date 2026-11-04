@@ -11,4 +11,4 @@ Any types of AI and AI tools not mentioned here will by default be not allowed.
 Question 3: How is the AI policy enforced?
 
 Answer: It is enforced by the project leadership, by contributors that want to, and people that want to become reviewers.
-If the AI policy is violated the contributions that violate the AI policy not be accepted.
+If the AI policy is violated the contributions that violate the AI policy will not be accepted.
