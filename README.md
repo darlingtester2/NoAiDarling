@@ -28,7 +28,7 @@
 
 NoAiDarling is a darling fork made because it seems like mainstream darling is going to include ai code in the future
 
-NoAiDarling is against ai code and will not accept any ai code 
+NoAiDarling is against AI code and AI use. If our `HUMAN-CONTRIBUTION-POLICY-2-UP.md` is violated, the contributions that violate this will not be accepted.
 
 Darling is a runtime environment that allows running macOS applications on Linux 
 without a virtual machine. It consists of a Mach-O binary loader and a userspace 
